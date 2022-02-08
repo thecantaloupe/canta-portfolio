@@ -3,12 +3,32 @@
       "name": "EDMDB",
       "live": "https://thecantaloupe.github.io/EDMDB.github.io/",
       "git": "https://github.com/thecantaloupe/EDMDB.github.io",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/xlIYbo4",
+      "about": "This",
+      "tech": "This"
     },
     {
       "name": "DnDB",
       "live": "https://cantadb-dnd.herokuapp.com/",
       "git": "https://github.com/thecantaloupe/cantadb-dnd",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/DUAqUFV",
+      "about": "This",
+      "tech": "This"
+    },
+    {
+      "name": "DnDB",
+      "live": "https://cantadb-dnd.herokuapp.com/",
+      "git": "https://github.com/thecantaloupe/cantadb-dnd",
+      "image": "https://imgur.com/I4Habie",
+      "about": "This",
+      "tech": "This"
+    },
+    {
+      "name": "DnDB",
+      "live": "https://cantadb-dnd.herokuapp.com/",
+      "git": "https://github.com/thecantaloupe/cantadb-dnd",
+      "image": "https://imgur.com/YbsAGbJ",
+      "about": "This",
+      "tech": "This"
     }
   ]
